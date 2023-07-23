@@ -1,4 +1,4 @@
-July 23 2023
+July 23 2023, Sunday Funday!
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
