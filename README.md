@@ -1,6 +1,6 @@
 July 23 2023, Sunday Funday!
 Welcome to the AWS CodeStar sample web service
-Azure CICD on Aug5
+Azure CICD on Aug5 2023 
 ==============================================
 
 This sample code helps get you started with a simple Python web service using
